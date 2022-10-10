@@ -8,9 +8,12 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 data=pd.read_csv('cars_sampled.csv')
 cars=data.copy()
+
 #pd.set_option('display.float_format')
+
 col=['name','dateCrawled','dateCreated','postalCode','lastSeen']
 cars=cars.drop(columns=col,axis=1)
+
 # we will work between 1950 to 2022 because between this range concentrated
 #and well distributed data is observed
 # and price 100 to 150000
