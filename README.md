@@ -6,3 +6,4 @@ for this, I have used jupyter notebook
 Data Scrapping part 1 project contains 
 the information of movies which i have taken from TMDB via API
 
+Movie Recommended system is a model which predict the recommendations based on choice made by customers.
