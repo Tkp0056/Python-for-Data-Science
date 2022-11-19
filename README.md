@@ -1,9 +1,7 @@
-# Python-for-Data-Science
-In this web scrapping project 
-I have taken data(like company name, ctype, ratings etc) of companies from ambitionbox.com
-for this, I have used jupyter notebook
+## Hi, This is Tapan kumar
 
-Data Scrapping part 1 project contains 
-the information of movies which i have taken from TMDB via API
+Passion for Math and Profession is Data Scientist
+⭐ My profile is dedicated to Data driven technology
 
-Movie Recommended system is a model which predict the recommendations based on choice made by customers.
+🌟 Pasionate business problem solver with the help of pattern not by feelings
+
